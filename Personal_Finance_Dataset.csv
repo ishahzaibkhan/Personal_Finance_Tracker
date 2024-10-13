@@ -1,0 +1,1001 @@
+Date,Category,Amount,Description
+2023-01-01,Savings,276.33,Bus fare
+2023-01-01,Transportation,259.1,Bus fare
+2023-01-01,Transportation,444.59,Restaurant
+2023-01-01,Entertainment,467.23,Grocery store
+2023-01-01,Healthcare,454.53,Restaurant
+2023-01-01,Savings,72.58,Movie night
+2023-01-02,Utilities,423.64,Grocery store
+2023-01-02,Groceries,332.34,Online shopping
+2023-01-02,Groceries,233.06,Grocery store
+2023-01-03,Entertainment,398.5,Bus fare
+2023-01-04,Entertainment,252.16,Gas station
+2023-01-04,Healthcare,22.65,Online shopping
+2023-01-04,Healthcare,135.82,Grocery store
+2023-01-04,Dining Out,341.33,Bus fare
+2023-01-05,Savings,20.26,Electric bill
+2023-01-05,Groceries,338.05,Bus fare
+2023-01-05,Savings,350.85,Restaurant
+2023-01-05,Healthcare,332.77,Bus fare
+2023-01-05,Rent,266.46,Movie night
+2023-01-06,Entertainment,240.93,Doctor visit
+2023-01-06,Utilities,173.78,Movie night
+2023-01-06,Rent,212.64,Online shopping
+2023-01-06,Dining Out,362.48,Movie night
+2023-01-07,Savings,150.7,Gas station
+2023-01-07,Groceries,389.58,Movie night
+2023-01-08,Rent,135.7,Electric bill
+2023-01-08,Rent,130.87,Movie night
+2023-01-08,Dining Out,436.58,Grocery store
+2023-01-09,Savings,61.24,Gas station
+2023-01-09,Entertainment,393.37,Gas station
+2023-01-09,Entertainment,371.38,Movie night
+2023-01-10,Dining Out,229.82,Bus fare
+2023-01-10,Rent,74.94,Doctor visit
+2023-01-12,Groceries,247.5,Grocery store
+2023-01-12,Entertainment,437.93,Online shopping
+2023-01-12,Groceries,492.0,Grocery store
+2023-01-13,Utilities,225.76,Bus fare
+2023-01-13,Savings,307.48,Online shopping
+2023-01-13,Dining Out,293.55,Grocery store
+2023-01-13,Groceries,488.18,Grocery store
+2023-01-14,Savings,400.3,Bus fare
+2023-01-14,Transportation,275.7,Electric bill
+2023-01-14,Savings,253.93,Grocery store
+2023-01-14,Savings,482.59,Doctor visit
+2023-01-15,Groceries,487.65,Electric bill
+2023-01-15,Transportation,288.1,Electric bill
+2023-01-15,Dining Out,350.99,Grocery store
+2023-01-16,Groceries,76.23,Electric bill
+2023-01-17,Healthcare,274.19,Movie night
+2023-01-18,Utilities,411.4,Electric bill
+2023-01-19,Rent,371.3,Online shopping
+2023-01-19,Utilities,72.77,Electric bill
+2023-01-20,Healthcare,253.42,Gas station
+2023-01-20,Groceries,114.62,Electric bill
+2023-01-20,Savings,385.37,Online shopping
+2023-01-21,Groceries,382.9,Bus fare
+2023-01-21,Utilities,344.81,Online shopping
+2023-01-22,Rent,43.16,Online shopping
+2023-01-22,Healthcare,271.47,Grocery store
+2023-01-22,Healthcare,322.88,Electric bill
+2023-01-23,Dining Out,82.25,Movie night
+2023-01-23,Rent,324.08,Restaurant
+2023-01-25,Dining Out,28.83,Doctor visit
+2023-01-25,Groceries,50.9,Online shopping
+2023-01-25,Groceries,330.6,Movie night
+2023-01-26,Savings,325.01,Grocery store
+2023-01-26,Rent,110.39,Online shopping
+2023-01-26,Savings,56.9,Doctor visit
+2023-01-27,Savings,327.26,Bus fare
+2023-01-28,Entertainment,409.26,Bus fare
+2023-01-28,Groceries,369.23,Gas station
+2023-01-28,Utilities,430.02,Gas station
+2023-01-28,Utilities,311.83,Doctor visit
+2023-01-28,Groceries,61.68,Gas station
+2023-01-29,Savings,29.65,Bus fare
+2023-01-29,Healthcare,50.26,Online shopping
+2023-01-30,Healthcare,131.02,Movie night
+2023-01-31,Rent,376.92,Electric bill
+2023-02-02,Entertainment,231.64,Movie night
+2023-02-02,Rent,115.86,Online shopping
+2023-02-02,Savings,205.42,Movie night
+2023-02-03,Utilities,270.89,Bus fare
+2023-02-03,Savings,426.49,Restaurant
+2023-02-03,Dining Out,210.85,Movie night
+2023-02-03,Transportation,91.32,Movie night
+2023-02-04,Dining Out,117.41,Grocery store
+2023-02-04,Groceries,59.51,Restaurant
+2023-02-04,Healthcare,41.46,Grocery store
+2023-02-04,Entertainment,149.59,Online shopping
+2023-02-04,Transportation,170.2,Restaurant
+2023-02-05,Transportation,182.66,Electric bill
+2023-02-05,Savings,201.54,Restaurant
+2023-02-05,Dining Out,434.85,Restaurant
+2023-02-05,Savings,245.86,Restaurant
+2023-02-06,Transportation,343.75,Online shopping
+2023-02-06,Groceries,115.45,Doctor visit
+2023-02-06,Rent,209.38,Restaurant
+2023-02-07,Dining Out,408.36,Grocery store
+2023-02-07,Entertainment,229.06,Movie night
+2023-02-08,Utilities,344.79,Restaurant
+2023-02-08,Transportation,145.68,Online shopping
+2023-02-08,Dining Out,49.65,Gas station
+2023-02-08,Rent,371.07,Restaurant
+2023-02-08,Transportation,175.75,Doctor visit
+2023-02-08,Transportation,298.01,Bus fare
+2023-02-08,Healthcare,448.61,Movie night
+2023-02-09,Savings,329.06,Gas station
+2023-02-10,Rent,204.49,Movie night
+2023-02-10,Savings,176.33,Bus fare
+2023-02-10,Groceries,394.06,Grocery store
+2023-02-11,Rent,107.78,Gas station
+2023-02-11,Groceries,42.66,Grocery store
+2023-02-11,Healthcare,284.28,Bus fare
+2023-02-12,Savings,482.06,Restaurant
+2023-02-12,Utilities,497.48,Restaurant
+2023-02-13,Dining Out,360.75,Restaurant
+2023-02-13,Utilities,379.97,Movie night
+2023-02-13,Entertainment,38.31,Grocery store
+2023-02-13,Dining Out,350.54,Doctor visit
+2023-02-14,Groceries,457.06,Online shopping
+2023-02-15,Groceries,190.29,Bus fare
+2023-02-15,Utilities,473.39,Online shopping
+2023-02-15,Entertainment,143.59,Doctor visit
+2023-02-16,Savings,261.13,Online shopping
+2023-02-16,Transportation,196.51,Gas station
+2023-02-16,Transportation,39.47,Online shopping
+2023-02-16,Utilities,137.54,Gas station
+2023-02-16,Savings,257.87,Online shopping
+2023-02-17,Healthcare,138.93,Electric bill
+2023-02-17,Entertainment,171.81,Grocery store
+2023-02-17,Healthcare,325.35,Bus fare
+2023-02-18,Utilities,403.48,Electric bill
+2023-02-18,Transportation,210.57,Online shopping
+2023-02-19,Dining Out,400.8,Online shopping
+2023-02-20,Savings,364.93,Electric bill
+2023-02-20,Rent,143.26,Gas station
+2023-02-20,Rent,426.8,Gas station
+2023-02-20,Dining Out,18.93,Electric bill
+2023-02-20,Healthcare,433.54,Movie night
+2023-02-20,Entertainment,324.86,Electric bill
+2023-02-21,Dining Out,131.87,Online shopping
+2023-02-21,Entertainment,435.45,Doctor visit
+2023-02-21,Rent,164.55,Doctor visit
+2023-02-22,Healthcare,170.81,Online shopping
+2023-02-22,Transportation,271.15,Restaurant
+2023-02-22,Groceries,468.94,Online shopping
+2023-02-22,Entertainment,451.86,Grocery store
+2023-02-22,Healthcare,180.2,Doctor visit
+2023-02-22,Transportation,263.68,Grocery store
+2023-02-22,Rent,345.93,Grocery store
+2023-02-23,Utilities,274.61,Bus fare
+2023-02-23,Groceries,435.45,Online shopping
+2023-02-23,Utilities,263.86,Gas station
+2023-02-23,Transportation,155.8,Electric bill
+2023-02-23,Savings,113.9,Doctor visit
+2023-02-23,Groceries,15.69,Gas station
+2023-02-23,Groceries,383.52,Movie night
+2023-02-24,Savings,484.41,Doctor visit
+2023-02-25,Savings,455.52,Gas station
+2023-02-25,Dining Out,395.28,Movie night
+2023-02-26,Healthcare,333.08,Bus fare
+2023-02-27,Savings,472.11,Doctor visit
+2023-02-27,Rent,309.38,Gas station
+2023-02-27,Groceries,121.06,Movie night
+2023-02-27,Groceries,133.6,Doctor visit
+2023-02-27,Healthcare,53.67,Grocery store
+2023-02-27,Healthcare,205.66,Doctor visit
+2023-02-28,Rent,448.11,Grocery store
+2023-03-01,Dining Out,168.92,Bus fare
+2023-03-01,Entertainment,62.23,Movie night
+2023-03-02,Dining Out,380.81,Electric bill
+2023-03-02,Entertainment,120.41,Gas station
+2023-03-03,Entertainment,113.22,Restaurant
+2023-03-03,Rent,423.73,Online shopping
+2023-03-03,Entertainment,429.31,Doctor visit
+2023-03-03,Transportation,267.94,Gas station
+2023-03-04,Healthcare,468.74,Online shopping
+2023-03-04,Utilities,48.92,Restaurant
+2023-03-04,Rent,285.13,Movie night
+2023-03-04,Healthcare,45.38,Movie night
+2023-03-06,Utilities,392.57,Grocery store
+2023-03-06,Healthcare,402.29,Gas station
+2023-03-06,Rent,184.19,Doctor visit
+2023-03-07,Transportation,145.65,Doctor visit
+2023-03-07,Dining Out,75.41,Doctor visit
+2023-03-08,Transportation,403.77,Grocery store
+2023-03-09,Rent,196.1,Restaurant
+2023-03-09,Transportation,442.38,Doctor visit
+2023-03-10,Utilities,410.55,Doctor visit
+2023-03-10,Groceries,134.79,Restaurant
+2023-03-10,Transportation,204.52,Movie night
+2023-03-10,Groceries,78.23,Restaurant
+2023-03-11,Savings,484.56,Movie night
+2023-03-11,Transportation,235.04,Doctor visit
+2023-03-13,Healthcare,290.22,Movie night
+2023-03-13,Utilities,249.44,Gas station
+2023-03-14,Savings,328.98,Online shopping
+2023-03-15,Healthcare,183.09,Movie night
+2023-03-16,Utilities,68.9,Online shopping
+2023-03-16,Groceries,49.49,Doctor visit
+2023-03-16,Savings,444.44,Electric bill
+2023-03-16,Dining Out,71.87,Doctor visit
+2023-03-17,Transportation,478.69,Grocery store
+2023-03-17,Groceries,460.5,Gas station
+2023-03-17,Rent,235.13,Bus fare
+2023-03-19,Entertainment,337.82,Movie night
+2023-03-19,Savings,499.19,Electric bill
+2023-03-19,Dining Out,331.82,Electric bill
+2023-03-21,Savings,277.06,Bus fare
+2023-03-22,Dining Out,141.81,Doctor visit
+2023-03-22,Groceries,275.24,Online shopping
+2023-03-22,Rent,382.11,Online shopping
+2023-03-22,Rent,370.84,Bus fare
+2023-03-23,Entertainment,159.75,Electric bill
+2023-03-24,Utilities,16.18,Online shopping
+2023-03-24,Transportation,118.1,Doctor visit
+2023-03-25,Utilities,58.06,Doctor visit
+2023-03-26,Rent,370.47,Electric bill
+2023-03-27,Utilities,427.2,Electric bill
+2023-03-27,Utilities,451.34,Movie night
+2023-03-27,Entertainment,108.99,Electric bill
+2023-03-29,Utilities,231.18,Doctor visit
+2023-03-30,Rent,186.47,Electric bill
+2023-03-30,Healthcare,461.22,Bus fare
+2023-03-31,Entertainment,206.73,Restaurant
+2023-03-31,Dining Out,259.62,Online shopping
+2023-03-31,Savings,338.66,Doctor visit
+2023-03-31,Groceries,311.46,Grocery store
+2023-04-01,Utilities,376.56,Restaurant
+2023-04-02,Utilities,66.24,Grocery store
+2023-04-02,Dining Out,219.82,Bus fare
+2023-04-02,Utilities,124.97,Doctor visit
+2023-04-02,Healthcare,108.26,Grocery store
+2023-04-03,Savings,408.85,Restaurant
+2023-04-03,Groceries,65.91,Grocery store
+2023-04-04,Savings,95.69,Gas station
+2023-04-04,Dining Out,440.21,Online shopping
+2023-04-05,Savings,414.73,Electric bill
+2023-04-05,Utilities,287.98,Gas station
+2023-04-05,Rent,490.84,Bus fare
+2023-04-05,Rent,127.2,Electric bill
+2023-04-05,Entertainment,198.08,Movie night
+2023-04-06,Entertainment,93.18,Doctor visit
+2023-04-06,Groceries,81.72,Electric bill
+2023-04-06,Rent,19.4,Grocery store
+2023-04-06,Dining Out,366.31,Gas station
+2023-04-06,Utilities,357.28,Restaurant
+2023-04-07,Transportation,336.76,Electric bill
+2023-04-07,Healthcare,39.53,Online shopping
+2023-04-08,Healthcare,435.28,Grocery store
+2023-04-08,Utilities,309.01,Restaurant
+2023-04-08,Savings,414.27,Movie night
+2023-04-09,Savings,69.72,Movie night
+2023-04-09,Rent,200.39,Movie night
+2023-04-09,Groceries,135.72,Electric bill
+2023-04-09,Utilities,347.87,Grocery store
+2023-04-09,Dining Out,213.92,Electric bill
+2023-04-09,Dining Out,371.84,Online shopping
+2023-04-09,Dining Out,39.57,Doctor visit
+2023-04-09,Utilities,47.76,Bus fare
+2023-04-09,Utilities,422.03,Gas station
+2023-04-10,Utilities,207.46,Electric bill
+2023-04-10,Entertainment,248.66,Movie night
+2023-04-10,Dining Out,90.18,Movie night
+2023-04-10,Rent,194.19,Grocery store
+2023-04-11,Dining Out,328.6,Movie night
+2023-04-11,Transportation,92.13,Electric bill
+2023-04-11,Dining Out,268.43,Bus fare
+2023-04-11,Groceries,175.08,Gas station
+2023-04-11,Utilities,441.24,Electric bill
+2023-04-13,Utilities,497.13,Gas station
+2023-04-13,Dining Out,366.69,Movie night
+2023-04-13,Dining Out,228.49,Bus fare
+2023-04-13,Groceries,381.55,Doctor visit
+2023-04-14,Transportation,315.69,Bus fare
+2023-04-14,Rent,12.82,Gas station
+2023-04-15,Entertainment,315.71,Movie night
+2023-04-15,Healthcare,254.15,Doctor visit
+2023-04-16,Healthcare,45.5,Gas station
+2023-04-16,Healthcare,57.37,Grocery store
+2023-04-16,Transportation,132.28,Online shopping
+2023-04-17,Savings,136.72,Electric bill
+2023-04-17,Healthcare,168.57,Grocery store
+2023-04-18,Groceries,74.47,Doctor visit
+2023-04-18,Entertainment,173.17,Gas station
+2023-04-19,Utilities,321.97,Movie night
+2023-04-19,Utilities,483.89,Bus fare
+2023-04-21,Groceries,492.21,Online shopping
+2023-04-21,Healthcare,469.04,Online shopping
+2023-04-21,Healthcare,320.99,Electric bill
+2023-04-21,Rent,293.02,Online shopping
+2023-04-21,Transportation,442.14,Electric bill
+2023-04-22,Rent,350.78,Online shopping
+2023-04-22,Groceries,437.64,Gas station
+2023-04-22,Utilities,185.32,Online shopping
+2023-04-22,Groceries,329.1,Movie night
+2023-04-23,Utilities,27.97,Online shopping
+2023-04-23,Savings,127.01,Online shopping
+2023-04-23,Savings,91.85,Electric bill
+2023-04-23,Dining Out,276.8,Online shopping
+2023-04-23,Transportation,242.57,Restaurant
+2023-04-23,Groceries,396.34,Gas station
+2023-04-23,Savings,416.15,Gas station
+2023-04-24,Transportation,74.05,Gas station
+2023-04-24,Transportation,126.07,Grocery store
+2023-04-25,Savings,160.06,Electric bill
+2023-04-26,Utilities,246.94,Grocery store
+2023-04-26,Entertainment,410.74,Gas station
+2023-04-26,Utilities,262.26,Grocery store
+2023-04-27,Entertainment,424.79,Doctor visit
+2023-04-27,Rent,464.23,Grocery store
+2023-04-28,Savings,22.84,Gas station
+2023-04-28,Utilities,26.26,Doctor visit
+2023-04-28,Entertainment,44.12,Online shopping
+2023-04-28,Rent,158.53,Restaurant
+2023-04-29,Dining Out,165.21,Online shopping
+2023-04-29,Entertainment,11.58,Gas station
+2023-04-30,Healthcare,400.93,Gas station
+2023-04-30,Entertainment,335.81,Gas station
+2023-05-01,Transportation,228.2,Online shopping
+2023-05-01,Utilities,405.14,Bus fare
+2023-05-02,Groceries,371.34,Grocery store
+2023-05-02,Transportation,380.08,Electric bill
+2023-05-02,Savings,365.97,Bus fare
+2023-05-02,Transportation,144.08,Bus fare
+2023-05-02,Dining Out,132.97,Gas station
+2023-05-02,Dining Out,384.54,Bus fare
+2023-05-03,Healthcare,493.45,Electric bill
+2023-05-04,Transportation,24.69,Bus fare
+2023-05-04,Savings,272.56,Bus fare
+2023-05-05,Rent,448.15,Grocery store
+2023-05-06,Groceries,310.34,Bus fare
+2023-05-06,Transportation,100.27,Electric bill
+2023-05-06,Groceries,27.72,Electric bill
+2023-05-06,Rent,37.97,Online shopping
+2023-05-06,Healthcare,464.76,Grocery store
+2023-05-06,Savings,20.69,Movie night
+2023-05-07,Savings,217.63,Online shopping
+2023-05-07,Savings,265.27,Restaurant
+2023-05-07,Savings,237.33,Electric bill
+2023-05-08,Savings,304.79,Online shopping
+2023-05-08,Rent,472.86,Electric bill
+2023-05-08,Groceries,196.3,Online shopping
+2023-05-08,Utilities,485.98,Gas station
+2023-05-09,Utilities,435.76,Restaurant
+2023-05-09,Transportation,356.17,Electric bill
+2023-05-09,Groceries,315.56,Doctor visit
+2023-05-10,Rent,404.78,Doctor visit
+2023-05-10,Healthcare,270.27,Online shopping
+2023-05-11,Dining Out,337.12,Electric bill
+2023-05-11,Entertainment,118.18,Online shopping
+2023-05-11,Utilities,390.53,Electric bill
+2023-05-11,Transportation,99.24,Electric bill
+2023-05-12,Utilities,269.85,Electric bill
+2023-05-13,Groceries,230.37,Movie night
+2023-05-13,Rent,396.42,Electric bill
+2023-05-13,Groceries,260.99,Restaurant
+2023-05-13,Rent,50.05,Bus fare
+2023-05-13,Healthcare,159.6,Online shopping
+2023-05-14,Transportation,460.27,Online shopping
+2023-05-14,Entertainment,346.3,Doctor visit
+2023-05-14,Entertainment,315.25,Online shopping
+2023-05-15,Transportation,49.26,Online shopping
+2023-05-15,Transportation,22.56,Doctor visit
+2023-05-15,Groceries,423.94,Gas station
+2023-05-16,Utilities,386.92,Online shopping
+2023-05-16,Healthcare,402.03,Doctor visit
+2023-05-16,Groceries,25.48,Electric bill
+2023-05-17,Healthcare,79.57,Doctor visit
+2023-05-17,Dining Out,485.01,Electric bill
+2023-05-18,Utilities,42.03,Movie night
+2023-05-19,Healthcare,35.47,Electric bill
+2023-05-19,Groceries,433.64,Bus fare
+2023-05-20,Savings,488.82,Restaurant
+2023-05-20,Utilities,335.84,Restaurant
+2023-05-21,Dining Out,192.36,Doctor visit
+2023-05-21,Transportation,100.75,Grocery store
+2023-05-22,Transportation,284.62,Online shopping
+2023-05-22,Entertainment,350.62,Gas station
+2023-05-23,Entertainment,208.12,Electric bill
+2023-05-23,Entertainment,299.27,Bus fare
+2023-05-23,Transportation,191.81,Gas station
+2023-05-24,Rent,347.55,Bus fare
+2023-05-24,Dining Out,348.1,Doctor visit
+2023-05-24,Groceries,224.43,Movie night
+2023-05-24,Groceries,322.23,Doctor visit
+2023-05-24,Savings,332.85,Doctor visit
+2023-05-24,Entertainment,496.16,Online shopping
+2023-05-24,Savings,249.53,Doctor visit
+2023-05-25,Dining Out,180.31,Electric bill
+2023-05-25,Dining Out,382.89,Grocery store
+2023-05-25,Rent,303.13,Electric bill
+2023-05-25,Dining Out,84.53,Restaurant
+2023-05-25,Groceries,69.48,Movie night
+2023-05-26,Transportation,44.92,Restaurant
+2023-05-26,Savings,214.7,Doctor visit
+2023-05-26,Utilities,399.16,Gas station
+2023-05-27,Utilities,380.52,Grocery store
+2023-05-27,Savings,440.47,Movie night
+2023-05-27,Dining Out,205.34,Bus fare
+2023-05-27,Utilities,227.44,Electric bill
+2023-05-27,Dining Out,410.71,Online shopping
+2023-05-27,Utilities,248.08,Grocery store
+2023-05-28,Rent,435.39,Gas station
+2023-05-28,Entertainment,485.26,Bus fare
+2023-05-28,Savings,127.94,Electric bill
+2023-05-29,Transportation,96.94,Online shopping
+2023-05-30,Transportation,104.01,Grocery store
+2023-05-30,Rent,164.03,Gas station
+2023-05-30,Rent,50.37,Grocery store
+2023-05-31,Utilities,24.89,Bus fare
+2023-05-31,Dining Out,413.08,Movie night
+2023-05-31,Entertainment,382.54,Electric bill
+2023-05-31,Savings,215.21,Electric bill
+2023-05-31,Entertainment,236.12,Online shopping
+2023-06-01,Utilities,137.31,Doctor visit
+2023-06-01,Savings,232.36,Online shopping
+2023-06-01,Transportation,225.36,Movie night
+2023-06-01,Utilities,349.9,Bus fare
+2023-06-01,Healthcare,59.31,Online shopping
+2023-06-01,Transportation,405.84,Grocery store
+2023-06-02,Entertainment,229.86,Restaurant
+2023-06-02,Utilities,293.41,Restaurant
+2023-06-03,Savings,100.39,Doctor visit
+2023-06-03,Healthcare,390.05,Electric bill
+2023-06-03,Healthcare,253.51,Online shopping
+2023-06-04,Healthcare,337.1,Movie night
+2023-06-04,Savings,181.26,Online shopping
+2023-06-05,Utilities,14.57,Restaurant
+2023-06-06,Transportation,75.03,Electric bill
+2023-06-07,Healthcare,384.79,Doctor visit
+2023-06-07,Rent,230.68,Grocery store
+2023-06-07,Transportation,360.91,Electric bill
+2023-06-09,Utilities,422.58,Grocery store
+2023-06-09,Groceries,46.01,Online shopping
+2023-06-09,Transportation,436.67,Restaurant
+2023-06-09,Groceries,84.11,Restaurant
+2023-06-09,Rent,162.79,Gas station
+2023-06-09,Transportation,224.92,Movie night
+2023-06-09,Healthcare,231.58,Grocery store
+2023-06-10,Transportation,31.27,Grocery store
+2023-06-10,Transportation,237.11,Electric bill
+2023-06-10,Utilities,223.44,Bus fare
+2023-06-10,Transportation,472.37,Gas station
+2023-06-11,Healthcare,173.91,Restaurant
+2023-06-11,Utilities,431.46,Doctor visit
+2023-06-12,Dining Out,305.69,Restaurant
+2023-06-12,Rent,343.31,Online shopping
+2023-06-12,Dining Out,324.0,Grocery store
+2023-06-12,Transportation,357.44,Gas station
+2023-06-13,Transportation,212.92,Doctor visit
+2023-06-13,Utilities,58.6,Online shopping
+2023-06-13,Utilities,74.55,Online shopping
+2023-06-14,Transportation,222.67,Online shopping
+2023-06-14,Savings,484.25,Online shopping
+2023-06-14,Healthcare,331.8,Bus fare
+2023-06-15,Dining Out,148.27,Bus fare
+2023-06-16,Savings,74.31,Doctor visit
+2023-06-16,Transportation,295.39,Bus fare
+2023-06-17,Dining Out,95.31,Bus fare
+2023-06-17,Healthcare,235.3,Electric bill
+2023-06-18,Rent,313.55,Grocery store
+2023-06-19,Entertainment,43.13,Online shopping
+2023-06-19,Groceries,300.25,Doctor visit
+2023-06-19,Entertainment,431.47,Electric bill
+2023-06-19,Dining Out,122.68,Gas station
+2023-06-19,Entertainment,432.77,Grocery store
+2023-06-19,Rent,58.21,Movie night
+2023-06-20,Dining Out,493.95,Restaurant
+2023-06-21,Transportation,485.21,Doctor visit
+2023-06-21,Transportation,29.28,Bus fare
+2023-06-21,Healthcare,131.08,Movie night
+2023-06-21,Healthcare,162.54,Restaurant
+2023-06-22,Groceries,235.66,Grocery store
+2023-06-22,Savings,301.29,Bus fare
+2023-06-22,Groceries,216.41,Grocery store
+2023-06-22,Transportation,120.06,Grocery store
+2023-06-22,Rent,350.13,Movie night
+2023-06-22,Transportation,366.96,Restaurant
+2023-06-23,Savings,334.07,Electric bill
+2023-06-23,Groceries,451.01,Bus fare
+2023-06-24,Utilities,190.58,Grocery store
+2023-06-25,Groceries,294.28,Gas station
+2023-06-25,Groceries,92.33,Bus fare
+2023-06-26,Transportation,245.68,Restaurant
+2023-06-26,Healthcare,142.21,Bus fare
+2023-06-26,Healthcare,15.41,Grocery store
+2023-06-26,Savings,243.25,Grocery store
+2023-06-27,Utilities,61.78,Gas station
+2023-06-27,Groceries,369.2,Gas station
+2023-06-28,Healthcare,343.31,Movie night
+2023-06-28,Utilities,313.6,Gas station
+2023-06-29,Groceries,388.29,Online shopping
+2023-06-29,Dining Out,384.76,Grocery store
+2023-06-29,Entertainment,446.23,Gas station
+2023-06-29,Entertainment,175.13,Grocery store
+2023-06-29,Groceries,264.34,Grocery store
+2023-06-30,Utilities,62.37,Doctor visit
+2023-06-30,Entertainment,310.83,Grocery store
+2023-07-01,Rent,304.92,Movie night
+2023-07-02,Entertainment,128.19,Doctor visit
+2023-07-02,Dining Out,137.48,Gas station
+2023-07-03,Healthcare,107.07,Grocery store
+2023-07-03,Entertainment,82.69,Movie night
+2023-07-03,Rent,248.91,Online shopping
+2023-07-04,Utilities,112.17,Electric bill
+2023-07-05,Utilities,109.98,Doctor visit
+2023-07-05,Transportation,144.34,Gas station
+2023-07-05,Dining Out,264.02,Bus fare
+2023-07-06,Entertainment,248.47,Online shopping
+2023-07-06,Rent,169.09,Doctor visit
+2023-07-06,Entertainment,335.26,Doctor visit
+2023-07-06,Rent,160.89,Gas station
+2023-07-06,Groceries,109.85,Bus fare
+2023-07-07,Healthcare,481.83,Doctor visit
+2023-07-07,Rent,48.5,Electric bill
+2023-07-07,Healthcare,114.42,Movie night
+2023-07-08,Dining Out,281.36,Electric bill
+2023-07-08,Savings,387.5,Online shopping
+2023-07-09,Transportation,77.18,Movie night
+2023-07-09,Savings,254.46,Doctor visit
+2023-07-09,Transportation,51.97,Gas station
+2023-07-09,Utilities,150.09,Bus fare
+2023-07-09,Healthcare,251.22,Online shopping
+2023-07-09,Entertainment,329.32,Gas station
+2023-07-10,Entertainment,304.01,Online shopping
+2023-07-10,Entertainment,404.94,Restaurant
+2023-07-10,Transportation,409.81,Grocery store
+2023-07-11,Rent,398.7,Gas station
+2023-07-11,Rent,84.02,Grocery store
+2023-07-11,Savings,369.47,Movie night
+2023-07-11,Rent,159.71,Grocery store
+2023-07-11,Dining Out,12.56,Bus fare
+2023-07-11,Rent,160.57,Movie night
+2023-07-11,Healthcare,253.27,Gas station
+2023-07-13,Entertainment,121.36,Online shopping
+2023-07-13,Utilities,121.32,Restaurant
+2023-07-13,Healthcare,139.87,Gas station
+2023-07-14,Utilities,237.33,Online shopping
+2023-07-14,Rent,308.18,Grocery store
+2023-07-14,Groceries,177.21,Online shopping
+2023-07-15,Transportation,334.3,Doctor visit
+2023-07-15,Rent,268.25,Electric bill
+2023-07-16,Healthcare,394.6,Grocery store
+2023-07-16,Healthcare,498.2,Grocery store
+2023-07-17,Transportation,232.82,Electric bill
+2023-07-17,Dining Out,467.6,Grocery store
+2023-07-17,Savings,412.6,Doctor visit
+2023-07-17,Utilities,201.63,Bus fare
+2023-07-18,Transportation,349.39,Bus fare
+2023-07-20,Transportation,448.46,Bus fare
+2023-07-20,Utilities,27.3,Doctor visit
+2023-07-20,Dining Out,78.43,Online shopping
+2023-07-21,Rent,392.13,Online shopping
+2023-07-21,Rent,53.41,Online shopping
+2023-07-21,Dining Out,407.77,Bus fare
+2023-07-21,Entertainment,454.01,Movie night
+2023-07-22,Healthcare,30.37,Online shopping
+2023-07-22,Groceries,146.85,Online shopping
+2023-07-22,Entertainment,469.32,Doctor visit
+2023-07-23,Healthcare,404.9,Bus fare
+2023-07-24,Utilities,321.73,Online shopping
+2023-07-24,Rent,450.92,Online shopping
+2023-07-25,Savings,478.11,Gas station
+2023-07-25,Groceries,295.17,Doctor visit
+2023-07-26,Utilities,23.31,Doctor visit
+2023-07-26,Dining Out,403.3,Electric bill
+2023-07-26,Dining Out,498.2,Online shopping
+2023-07-27,Savings,337.42,Grocery store
+2023-07-27,Healthcare,284.23,Doctor visit
+2023-07-27,Rent,170.25,Restaurant
+2023-07-31,Savings,375.41,Gas station
+2023-07-31,Rent,311.5,Online shopping
+2023-07-31,Healthcare,469.77,Electric bill
+2023-08-01,Groceries,492.49,Movie night
+2023-08-01,Dining Out,354.21,Bus fare
+2023-08-02,Rent,437.17,Online shopping
+2023-08-02,Utilities,273.96,Grocery store
+2023-08-02,Utilities,235.03,Movie night
+2023-08-03,Utilities,349.16,Bus fare
+2023-08-03,Savings,493.46,Bus fare
+2023-08-03,Utilities,498.59,Doctor visit
+2023-08-03,Transportation,72.91,Gas station
+2023-08-03,Dining Out,30.42,Grocery store
+2023-08-04,Dining Out,412.83,Restaurant
+2023-08-04,Groceries,368.48,Doctor visit
+2023-08-05,Rent,389.57,Grocery store
+2023-08-05,Healthcare,284.72,Gas station
+2023-08-05,Rent,181.81,Doctor visit
+2023-08-05,Healthcare,480.19,Gas station
+2023-08-05,Utilities,249.24,Restaurant
+2023-08-05,Groceries,230.39,Online shopping
+2023-08-06,Utilities,397.11,Bus fare
+2023-08-06,Rent,69.83,Electric bill
+2023-08-06,Entertainment,254.12,Electric bill
+2023-08-06,Rent,152.91,Electric bill
+2023-08-06,Transportation,236.52,Restaurant
+2023-08-08,Rent,225.31,Restaurant
+2023-08-08,Utilities,102.13,Movie night
+2023-08-08,Groceries,309.06,Electric bill
+2023-08-08,Healthcare,296.82,Doctor visit
+2023-08-08,Healthcare,320.73,Electric bill
+2023-08-08,Savings,109.22,Electric bill
+2023-08-08,Dining Out,67.02,Movie night
+2023-08-09,Rent,51.55,Electric bill
+2023-08-10,Transportation,470.93,Restaurant
+2023-08-10,Healthcare,179.59,Online shopping
+2023-08-10,Savings,373.93,Electric bill
+2023-08-11,Utilities,395.58,Bus fare
+2023-08-11,Dining Out,121.76,Restaurant
+2023-08-11,Entertainment,422.31,Restaurant
+2023-08-11,Entertainment,83.58,Online shopping
+2023-08-11,Utilities,95.67,Restaurant
+2023-08-12,Healthcare,55.57,Restaurant
+2023-08-12,Healthcare,64.84,Bus fare
+2023-08-12,Entertainment,272.3,Gas station
+2023-08-12,Healthcare,382.95,Online shopping
+2023-08-13,Utilities,436.89,Grocery store
+2023-08-13,Utilities,169.34,Online shopping
+2023-08-13,Savings,131.14,Electric bill
+2023-08-13,Savings,142.18,Electric bill
+2023-08-14,Savings,101.83,Gas station
+2023-08-14,Groceries,367.46,Grocery store
+2023-08-14,Groceries,450.03,Doctor visit
+2023-08-15,Groceries,87.4,Doctor visit
+2023-08-15,Groceries,365.73,Gas station
+2023-08-15,Dining Out,488.17,Restaurant
+2023-08-15,Entertainment,204.12,Movie night
+2023-08-15,Healthcare,386.96,Bus fare
+2023-08-16,Transportation,281.57,Grocery store
+2023-08-16,Dining Out,337.28,Gas station
+2023-08-17,Utilities,314.25,Movie night
+2023-08-17,Savings,496.32,Bus fare
+2023-08-17,Groceries,274.99,Gas station
+2023-08-17,Dining Out,90.76,Grocery store
+2023-08-17,Transportation,234.51,Bus fare
+2023-08-18,Rent,361.88,Electric bill
+2023-08-18,Savings,181.35,Gas station
+2023-08-19,Healthcare,428.65,Online shopping
+2023-08-19,Transportation,136.26,Gas station
+2023-08-19,Utilities,402.85,Restaurant
+2023-08-19,Entertainment,218.49,Grocery store
+2023-08-19,Healthcare,78.95,Restaurant
+2023-08-21,Dining Out,98.76,Movie night
+2023-08-21,Healthcare,287.84,Doctor visit
+2023-08-21,Utilities,421.94,Movie night
+2023-08-21,Dining Out,234.57,Gas station
+2023-08-21,Healthcare,186.02,Bus fare
+2023-08-21,Rent,203.29,Restaurant
+2023-08-21,Entertainment,264.69,Bus fare
+2023-08-21,Utilities,257.55,Doctor visit
+2023-08-22,Rent,74.13,Electric bill
+2023-08-23,Utilities,361.0,Doctor visit
+2023-08-23,Groceries,335.26,Bus fare
+2023-08-24,Entertainment,89.49,Restaurant
+2023-08-24,Rent,156.38,Bus fare
+2023-08-24,Groceries,144.37,Doctor visit
+2023-08-25,Savings,52.94,Restaurant
+2023-08-25,Rent,14.79,Gas station
+2023-08-25,Savings,179.51,Doctor visit
+2023-08-26,Groceries,320.95,Grocery store
+2023-08-26,Groceries,435.35,Electric bill
+2023-08-26,Savings,307.87,Gas station
+2023-08-27,Rent,15.93,Gas station
+2023-08-27,Savings,204.03,Bus fare
+2023-08-27,Healthcare,35.46,Restaurant
+2023-08-27,Rent,298.22,Restaurant
+2023-08-27,Savings,414.77,Electric bill
+2023-08-28,Groceries,262.64,Movie night
+2023-08-28,Groceries,479.46,Electric bill
+2023-08-28,Groceries,284.48,Bus fare
+2023-08-29,Transportation,236.69,Gas station
+2023-08-30,Entertainment,300.59,Online shopping
+2023-08-30,Entertainment,158.6,Gas station
+2023-08-30,Dining Out,245.95,Gas station
+2023-08-30,Transportation,221.72,Restaurant
+2023-08-31,Dining Out,437.98,Bus fare
+2023-08-31,Utilities,230.67,Restaurant
+2023-09-01,Groceries,100.91,Bus fare
+2023-09-03,Groceries,297.44,Bus fare
+2023-09-03,Healthcare,432.39,Electric bill
+2023-09-04,Dining Out,164.92,Movie night
+2023-09-04,Entertainment,483.25,Gas station
+2023-09-04,Transportation,116.2,Online shopping
+2023-09-04,Transportation,454.06,Grocery store
+2023-09-04,Healthcare,262.68,Restaurant
+2023-09-04,Transportation,180.49,Doctor visit
+2023-09-06,Utilities,190.2,Gas station
+2023-09-06,Dining Out,35.61,Doctor visit
+2023-09-06,Healthcare,37.96,Restaurant
+2023-09-06,Dining Out,40.51,Grocery store
+2023-09-07,Transportation,187.5,Restaurant
+2023-09-07,Dining Out,413.02,Electric bill
+2023-09-07,Healthcare,256.26,Restaurant
+2023-09-08,Rent,201.85,Movie night
+2023-09-08,Entertainment,137.06,Doctor visit
+2023-09-09,Healthcare,79.82,Electric bill
+2023-09-09,Rent,26.27,Restaurant
+2023-09-09,Utilities,401.37,Doctor visit
+2023-09-09,Entertainment,31.16,Movie night
+2023-09-09,Rent,115.68,Movie night
+2023-09-09,Rent,56.01,Electric bill
+2023-09-09,Utilities,224.06,Electric bill
+2023-09-10,Savings,155.3,Movie night
+2023-09-10,Transportation,204.82,Movie night
+2023-09-10,Dining Out,492.64,Movie night
+2023-09-10,Dining Out,69.48,Grocery store
+2023-09-10,Healthcare,82.96,Electric bill
+2023-09-10,Rent,279.61,Gas station
+2023-09-11,Rent,189.57,Grocery store
+2023-09-11,Healthcare,33.62,Gas station
+2023-09-11,Rent,350.53,Online shopping
+2023-09-12,Transportation,482.91,Bus fare
+2023-09-12,Healthcare,282.13,Grocery store
+2023-09-12,Savings,422.55,Doctor visit
+2023-09-13,Transportation,320.24,Electric bill
+2023-09-13,Dining Out,439.56,Grocery store
+2023-09-14,Savings,441.0,Gas station
+2023-09-14,Rent,396.95,Doctor visit
+2023-09-14,Rent,190.09,Grocery store
+2023-09-15,Dining Out,221.92,Electric bill
+2023-09-15,Dining Out,330.71,Grocery store
+2023-09-16,Utilities,339.98,Bus fare
+2023-09-16,Groceries,300.55,Doctor visit
+2023-09-16,Groceries,21.85,Bus fare
+2023-09-16,Savings,286.86,Gas station
+2023-09-16,Rent,225.7,Electric bill
+2023-09-17,Dining Out,394.97,Online shopping
+2023-09-17,Utilities,202.32,Bus fare
+2023-09-18,Savings,359.9,Online shopping
+2023-09-19,Utilities,283.31,Online shopping
+2023-09-19,Utilities,211.44,Doctor visit
+2023-09-20,Groceries,341.49,Doctor visit
+2023-09-21,Groceries,498.38,Bus fare
+2023-09-21,Utilities,219.47,Electric bill
+2023-09-21,Healthcare,105.93,Doctor visit
+2023-09-21,Entertainment,250.88,Online shopping
+2023-09-21,Rent,328.93,Bus fare
+2023-09-21,Savings,76.86,Movie night
+2023-09-22,Dining Out,394.66,Gas station
+2023-09-22,Savings,67.48,Online shopping
+2023-09-24,Transportation,324.74,Electric bill
+2023-09-24,Transportation,289.6,Electric bill
+2023-09-25,Dining Out,143.8,Gas station
+2023-09-25,Rent,410.48,Movie night
+2023-09-25,Savings,312.4,Restaurant
+2023-09-25,Entertainment,84.49,Bus fare
+2023-09-25,Groceries,15.94,Electric bill
+2023-09-26,Healthcare,108.46,Bus fare
+2023-09-27,Utilities,29.41,Bus fare
+2023-09-28,Transportation,128.6,Movie night
+2023-09-28,Entertainment,124.52,Doctor visit
+2023-09-28,Rent,20.84,Doctor visit
+2023-09-28,Entertainment,25.26,Online shopping
+2023-09-29,Rent,88.44,Gas station
+2023-09-29,Utilities,469.11,Gas station
+2023-09-30,Groceries,40.7,Electric bill
+2023-09-30,Rent,56.81,Movie night
+2023-09-30,Groceries,491.93,Electric bill
+2023-09-30,Utilities,232.64,Gas station
+2023-10-01,Savings,25.94,Online shopping
+2023-10-01,Rent,458.39,Restaurant
+2023-10-02,Entertainment,464.32,Grocery store
+2023-10-02,Rent,330.05,Bus fare
+2023-10-02,Savings,153.48,Electric bill
+2023-10-04,Rent,240.87,Bus fare
+2023-10-04,Healthcare,105.37,Electric bill
+2023-10-04,Groceries,221.84,Online shopping
+2023-10-04,Dining Out,264.35,Restaurant
+2023-10-04,Utilities,129.31,Bus fare
+2023-10-04,Groceries,285.0,Restaurant
+2023-10-05,Rent,229.13,Doctor visit
+2023-10-06,Rent,402.75,Movie night
+2023-10-06,Healthcare,422.6,Grocery store
+2023-10-07,Savings,481.93,Doctor visit
+2023-10-07,Transportation,98.9,Movie night
+2023-10-07,Rent,476.39,Doctor visit
+2023-10-07,Transportation,53.05,Bus fare
+2023-10-07,Savings,183.18,Grocery store
+2023-10-08,Transportation,443.26,Doctor visit
+2023-10-08,Dining Out,287.01,Online shopping
+2023-10-09,Groceries,277.26,Gas station
+2023-10-09,Transportation,48.91,Restaurant
+2023-10-09,Dining Out,294.19,Movie night
+2023-10-10,Transportation,333.55,Online shopping
+2023-10-10,Utilities,121.94,Gas station
+2023-10-10,Transportation,436.67,Electric bill
+2023-10-10,Dining Out,404.44,Grocery store
+2023-10-10,Savings,13.71,Grocery store
+2023-10-11,Groceries,467.87,Online shopping
+2023-10-11,Utilities,319.46,Electric bill
+2023-10-11,Groceries,447.12,Gas station
+2023-10-11,Groceries,216.64,Doctor visit
+2023-10-12,Dining Out,465.99,Grocery store
+2023-10-12,Entertainment,390.59,Online shopping
+2023-10-12,Healthcare,350.57,Gas station
+2023-10-13,Groceries,278.5,Bus fare
+2023-10-13,Dining Out,444.24,Bus fare
+2023-10-13,Groceries,98.04,Bus fare
+2023-10-13,Rent,378.17,Movie night
+2023-10-13,Rent,464.25,Restaurant
+2023-10-15,Dining Out,67.98,Doctor visit
+2023-10-15,Groceries,392.46,Gas station
+2023-10-15,Healthcare,495.72,Movie night
+2023-10-16,Groceries,436.77,Grocery store
+2023-10-16,Rent,358.02,Electric bill
+2023-10-16,Savings,433.03,Doctor visit
+2023-10-16,Transportation,313.6,Bus fare
+2023-10-16,Entertainment,95.03,Electric bill
+2023-10-17,Rent,393.19,Doctor visit
+2023-10-17,Transportation,307.06,Grocery store
+2023-10-19,Transportation,30.56,Electric bill
+2023-10-19,Utilities,440.14,Bus fare
+2023-10-20,Entertainment,235.58,Gas station
+2023-10-20,Entertainment,50.0,Gas station
+2023-10-21,Rent,12.42,Grocery store
+2023-10-21,Dining Out,271.18,Bus fare
+2023-10-21,Rent,475.92,Restaurant
+2023-10-21,Utilities,385.1,Movie night
+2023-10-22,Dining Out,356.32,Movie night
+2023-10-23,Groceries,312.9,Online shopping
+2023-10-25,Groceries,466.16,Online shopping
+2023-10-26,Dining Out,231.37,Grocery store
+2023-10-27,Dining Out,448.05,Gas station
+2023-10-27,Entertainment,261.2,Doctor visit
+2023-10-28,Healthcare,211.77,Electric bill
+2023-10-28,Dining Out,325.51,Grocery store
+2023-10-28,Utilities,347.84,Bus fare
+2023-10-29,Savings,357.43,Online shopping
+2023-10-29,Groceries,79.7,Online shopping
+2023-10-30,Entertainment,101.19,Gas station
+2023-10-30,Healthcare,331.52,Restaurant
+2023-10-30,Rent,190.47,Doctor visit
+2023-10-30,Groceries,41.95,Online shopping
+2023-10-31,Healthcare,244.8,Grocery store
+2023-10-31,Rent,208.03,Gas station
+2023-10-31,Savings,61.42,Movie night
+2023-10-31,Utilities,59.7,Gas station
+2023-10-31,Groceries,499.71,Movie night
+2023-11-01,Dining Out,44.02,Doctor visit
+2023-11-01,Transportation,369.07,Electric bill
+2023-11-02,Healthcare,417.53,Doctor visit
+2023-11-02,Groceries,324.57,Gas station
+2023-11-02,Rent,87.87,Bus fare
+2023-11-03,Rent,389.0,Electric bill
+2023-11-03,Entertainment,387.75,Electric bill
+2023-11-04,Entertainment,420.68,Online shopping
+2023-11-04,Savings,43.79,Restaurant
+2023-11-04,Dining Out,95.9,Electric bill
+2023-11-05,Transportation,343.44,Doctor visit
+2023-11-06,Healthcare,245.17,Restaurant
+2023-11-06,Transportation,45.87,Restaurant
+2023-11-07,Groceries,127.54,Online shopping
+2023-11-07,Entertainment,479.24,Restaurant
+2023-11-07,Entertainment,38.69,Doctor visit
+2023-11-08,Healthcare,363.81,Restaurant
+2023-11-08,Healthcare,432.07,Bus fare
+2023-11-08,Savings,266.43,Movie night
+2023-11-09,Entertainment,220.53,Restaurant
+2023-11-09,Healthcare,123.65,Movie night
+2023-11-10,Dining Out,168.45,Movie night
+2023-11-10,Savings,215.67,Gas station
+2023-11-10,Groceries,218.78,Bus fare
+2023-11-11,Entertainment,125.66,Doctor visit
+2023-11-11,Groceries,341.47,Movie night
+2023-11-11,Dining Out,430.51,Doctor visit
+2023-11-12,Savings,277.88,Bus fare
+2023-11-12,Transportation,281.99,Bus fare
+2023-11-12,Entertainment,312.16,Online shopping
+2023-11-13,Utilities,69.54,Bus fare
+2023-11-13,Rent,390.46,Bus fare
+2023-11-13,Utilities,364.18,Grocery store
+2023-11-13,Transportation,182.3,Doctor visit
+2023-11-14,Dining Out,95.14,Grocery store
+2023-11-14,Utilities,274.58,Restaurant
+2023-11-14,Savings,136.49,Gas station
+2023-11-14,Entertainment,221.13,Gas station
+2023-11-15,Groceries,399.77,Restaurant
+2023-11-15,Dining Out,90.71,Electric bill
+2023-11-16,Utilities,368.43,Grocery store
+2023-11-16,Dining Out,64.38,Gas station
+2023-11-16,Rent,435.63,Doctor visit
+2023-11-17,Entertainment,197.15,Bus fare
+2023-11-17,Groceries,494.01,Electric bill
+2023-11-18,Dining Out,349.29,Online shopping
+2023-11-18,Transportation,489.76,Electric bill
+2023-11-19,Rent,211.4,Gas station
+2023-11-19,Healthcare,40.06,Electric bill
+2023-11-19,Entertainment,476.19,Movie night
+2023-11-20,Healthcare,158.93,Gas station
+2023-11-20,Utilities,258.55,Movie night
+2023-11-21,Utilities,462.15,Grocery store
+2023-11-21,Transportation,43.4,Restaurant
+2023-11-21,Transportation,323.17,Grocery store
+2023-11-22,Rent,114.2,Gas station
+2023-11-22,Transportation,356.84,Doctor visit
+2023-11-22,Dining Out,355.29,Grocery store
+2023-11-22,Dining Out,402.17,Online shopping
+2023-11-23,Savings,92.07,Grocery store
+2023-11-23,Utilities,311.36,Doctor visit
+2023-11-23,Entertainment,365.38,Online shopping
+2023-11-24,Dining Out,278.32,Electric bill
+2023-11-25,Rent,316.85,Online shopping
+2023-11-26,Dining Out,26.47,Restaurant
+2023-11-26,Dining Out,321.78,Movie night
+2023-11-26,Savings,38.5,Movie night
+2023-11-27,Entertainment,218.83,Restaurant
+2023-11-27,Savings,174.25,Gas station
+2023-11-27,Rent,45.32,Grocery store
+2023-11-27,Healthcare,126.4,Grocery store
+2023-11-29,Entertainment,196.4,Online shopping
+2023-12-01,Healthcare,169.3,Restaurant
+2023-12-01,Entertainment,420.15,Grocery store
+2023-12-01,Utilities,331.91,Movie night
+2023-12-01,Dining Out,138.24,Restaurant
+2023-12-02,Utilities,279.27,Movie night
+2023-12-02,Transportation,368.1,Online shopping
+2023-12-03,Dining Out,40.52,Doctor visit
+2023-12-03,Dining Out,264.5,Electric bill
+2023-12-04,Healthcare,192.89,Electric bill
+2023-12-04,Rent,76.32,Gas station
+2023-12-04,Groceries,253.62,Movie night
+2023-12-04,Transportation,169.97,Grocery store
+2023-12-05,Transportation,347.19,Movie night
+2023-12-05,Rent,154.77,Online shopping
+2023-12-06,Transportation,169.05,Restaurant
+2023-12-06,Dining Out,258.01,Grocery store
+2023-12-06,Dining Out,220.85,Electric bill
+2023-12-06,Utilities,454.15,Restaurant
+2023-12-06,Entertainment,455.43,Grocery store
+2023-12-07,Entertainment,41.78,Bus fare
+2023-12-07,Savings,159.29,Doctor visit
+2023-12-07,Healthcare,246.65,Movie night
+2023-12-08,Savings,183.95,Grocery store
+2023-12-08,Dining Out,83.52,Gas station
+2023-12-08,Transportation,61.01,Grocery store
+2023-12-08,Transportation,144.65,Gas station
+2023-12-08,Transportation,110.79,Grocery store
+2023-12-08,Rent,305.71,Restaurant
+2023-12-09,Dining Out,110.86,Online shopping
+2023-12-10,Groceries,321.85,Online shopping
+2023-12-10,Rent,143.9,Grocery store
+2023-12-11,Healthcare,492.15,Movie night
+2023-12-11,Dining Out,108.07,Electric bill
+2023-12-12,Groceries,202.99,Electric bill
+2023-12-12,Groceries,71.34,Doctor visit
+2023-12-12,Dining Out,339.58,Electric bill
+2023-12-12,Utilities,328.66,Grocery store
+2023-12-12,Entertainment,84.68,Grocery store
+2023-12-12,Groceries,91.23,Electric bill
+2023-12-12,Healthcare,331.67,Doctor visit
+2023-12-13,Groceries,478.74,Doctor visit
+2023-12-14,Dining Out,326.45,Online shopping
+2023-12-14,Dining Out,495.99,Movie night
+2023-12-14,Savings,98.68,Restaurant
+2023-12-14,Groceries,421.5,Online shopping
+2023-12-15,Groceries,267.33,Bus fare
+2023-12-15,Rent,108.91,Gas station
+2023-12-15,Healthcare,126.4,Movie night
+2023-12-15,Healthcare,304.29,Gas station
+2023-12-15,Groceries,22.05,Movie night
+2023-12-16,Groceries,358.89,Grocery store
+2023-12-16,Entertainment,108.67,Movie night
+2023-12-16,Transportation,237.95,Gas station
+2023-12-16,Savings,415.84,Electric bill
+2023-12-17,Savings,245.45,Movie night
+2023-12-17,Dining Out,356.76,Doctor visit
+2023-12-18,Dining Out,25.02,Gas station
+2023-12-18,Groceries,486.28,Grocery store
+2023-12-18,Groceries,96.8,Electric bill
+2023-12-20,Healthcare,361.62,Online shopping
+2023-12-21,Groceries,249.05,Electric bill
+2023-12-21,Healthcare,231.11,Gas station
+2023-12-21,Entertainment,285.53,Electric bill
+2023-12-21,Utilities,21.58,Gas station
+2023-12-22,Groceries,277.86,Movie night
+2023-12-23,Transportation,415.49,Grocery store
+2023-12-23,Healthcare,184.14,Doctor visit
+2023-12-23,Utilities,488.05,Electric bill
+2023-12-24,Dining Out,236.16,Grocery store
+2023-12-24,Savings,263.46,Movie night
+2023-12-25,Utilities,362.41,Doctor visit
+2023-12-25,Entertainment,90.13,Grocery store
+2023-12-26,Transportation,421.53,Restaurant
+2023-12-26,Healthcare,312.75,Gas station
+2023-12-26,Rent,88.18,Movie night
+2023-12-26,Dining Out,162.08,Gas station
+2023-12-26,Savings,399.46,Doctor visit
+2023-12-26,Entertainment,330.55,Gas station
+2023-12-27,Groceries,106.76,Gas station
+2023-12-27,Dining Out,63.77,Online shopping
+2023-12-29,Groceries,400.98,Movie night
+2023-12-30,Transportation,490.19,Movie night
+2023-12-30,Dining Out,241.87,Gas station
+2023-12-31,Healthcare,411.34,Gas station
+2023-12-31,Savings,212.18,Restaurant
+2023-12-31,Rent,316.09,Bus fare
+2023-12-31,Dining Out,478.21,Restaurant
+2023-12-31,Groceries,368.02,Movie night
+2023-12-31,Rent,196.41,Online shopping
