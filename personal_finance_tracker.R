@@ -9,15 +9,15 @@ df <- read.csv("./Personal_Finance_Dataset.csv")
 skim(df)
 glimpse(df)
 
-# Calculating the monthly income
-monthly_income <- df %>%
-  filter(month(Date) == 1) %>% 
-  summarise(Income = sum(Amount)) %>% 
+# Extracting month and year from the date for grouping
+df <- df %>%
+  mutate(Month = month(Date))
 
-# Calculating the total income
-total_income <- df %>% 
-  summarise(total_income = sum(Amount))
-  
+# Calculating monthly income and keeping all months
+df <- df %>%
+  group_by(Month) %>%
+  mutate(Monthly_income = sum(Amount))
+
 # Reviewing spending by category
 df %>% 
   group_by(Category) %>% 
@@ -27,11 +27,12 @@ df %>%
 df %>%
   group_by(month(Date)) %>% 
   filter(Category == "Savings") %>% 
-  summarise(savings = sum(Amount)) %>% 
+  summarise(savings = sum(Amount))
 
 total_savings <- df %>% 
   filter(Category == "Savings") %>% 
   summarise(total_savings = sum(Amount))
 
-total_spending <- total_income - total_savings
+# total_spending <- total_income - total_savings
+
 
