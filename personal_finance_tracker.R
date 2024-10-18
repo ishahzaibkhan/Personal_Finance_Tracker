@@ -18,16 +18,21 @@ df <- df %>%
   group_by(Month) %>%
   mutate(Monthly_income = sum(Amount))
 
+df <- df %>% 
+  mutate(Total_income = sum(df$Amount))
 # Reviewing spending by category
 df %>% 
   group_by(Category) %>% 
   summarise(spendings = sum(Amount))
 
 # Calculating the saving per month
-df %>%
-  group_by(month(Date)) %>% 
+monthly_savings <- df %>%
+  group_by(Month) %>% 
   filter(Category == "Savings") %>% 
-  summarise(savings = sum(Amount))
+  summarise(Monthly_savings = sum(Amount))
+
+df <- df %>% 
+  left_join(monthly_savings)
 
 total_savings <- df %>% 
   filter(Category == "Savings") %>% 
