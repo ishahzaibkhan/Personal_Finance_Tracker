@@ -38,6 +38,14 @@ total_savings <- df %>%
   filter(Category == "Savings") %>% 
   summarise(total_savings = sum(Amount))
 
-# total_spending <- total_income - total_savings
+monthly_spending <- df %>% 
+  group_by(Month) %>% 
+  summarise(Monthly_spending = mean(Monthly_income) - mean(Monthly_savings))
 
+df <- df %>% 
+  left_join(onthly_spending)
 
+ggplot(df, aes(x = Month, y = Amount, fill = Category)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Monthly Financial Overview", x = "Month", y = "Amount") +
+  scale_x_continuous(breaks = 1:12)
