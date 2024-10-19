@@ -43,9 +43,20 @@ monthly_spending <- df %>%
   summarise(Monthly_spending = mean(Monthly_income) - mean(Monthly_savings))
 
 df <- df %>% 
-  left_join(onthly_spending)
+  left_join(monthly_spending)
 
-ggplot(df, aes(x = Month, y = Amount, fill = Category)) +
+ggplot(monthly_savings, aes(x = as.factor(Month), y = Monthly_savings)) +
   geom_bar(stat = "identity") +
-  labs(title = "Monthly Financial Overview", x = "Month", y = "Amount") +
+  theme_minimal() +
+  labs(title = "Monthly Savings", x = "Month", y = "Saving")
+
+ggplot(monthly_spending, aes(x = as.factor(Month), y = Monthly_spending)) +
+  geom_bar(stat = "identity") +
+  theme_minimal() +
+  labs(title = "Monthly Spendings", x = "Month", y = "Spendings")
+
+ggplot(df) +
+  geom_line(aes(x = Month, y = Monthly_savings, color = "Savings")) +
+  geom_line(aes(x = Month, y = Monthly_spending, color= "Spendings")) +
+  labs(title = "Monthly Savings", x = "Month", y = "Saving") +
   scale_x_continuous(breaks = 1:12)
